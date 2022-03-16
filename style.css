@@ -54,7 +54,7 @@ header {
 }
 .welcome {
     color: white;
-    position: fixed;
+    position: absolute;
     top: 325px;
     left: 395px;
     font-family: Poppins, sans-serif;
