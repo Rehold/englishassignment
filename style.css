@@ -25,7 +25,9 @@ header {
     padding-top: 15px;
     display: flex;
     flex-direction: row;
-    position: fixed;
+    position: relative;
+    background-color: white;
+    padding-right: 100%
 }
 .mainbutton {
     text-decoration: none;
@@ -37,6 +39,9 @@ header {
 .mainbutton:hover {
     border-bottom: 4px solid #0056a2;
 }
+#banner {
+    top: 100px;
+}
 #mainheader-text {
     font-family: Poppins,sans-serif;
     color: black;
@@ -46,4 +51,11 @@ header {
 }
 #guidance {
     border-bottom: 4px solid #0056a2;
+}
+.welcome {
+    color: white;
+    position: fixed;
+    top: 325px;
+    left: 395px;
+    font-family: Poppins, sans-serif;
 }
