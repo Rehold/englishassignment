@@ -4,6 +4,9 @@ header {
     padding: 16px;
     white-space: nowrap;
 }
+#main {
+    padding: 0 6%;
+}
 #iwantto {
     background-color: #08243e;
     padding-top: 15px;
@@ -58,4 +61,26 @@ header {
     top: 325px;
     left: 395px;
     font-family: Poppins, sans-serif;
+}
+#guidanceword {
+    padding: 10px;
+    border-left: 7px solid #0056a2;
+    font-family: Poppins,sans-serif;
+    font-weight: bold;
+}
+p {
+    font-size: 17px;
+    padding: 15px;
+    font-family: Roboto,sans-serif;
+}
+h2 {
+    font-family: Poppins,sans-serif;
+    margin: 20px 0 15px;
+    font-size: 1.471em;
+    padding-left: 18px;
+}
+.link {
+    color: #0056a2;
+    font-weight: 700;
+    text-decoration: none;
 }
