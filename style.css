@@ -111,3 +111,15 @@ h3 {
 a {
     text-decoration: none;
 }
+#footer {
+    background-color: #0056a2;
+}
+.pride {
+    bottom: 10px;
+}
+#footer-buttons {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-family: Roboto,sans-serif;
+}
