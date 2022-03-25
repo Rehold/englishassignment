@@ -2,10 +2,14 @@
 header {
     background-color: #0e4271;
     padding: 16px;
-    white-space: nowrap;
 }
 #main {
     padding: 0 6%;
+}
+.topheaderright {
+    position: absolute;
+    right: 10px;
+    display: inline-block
 }
 #iwantto {
     background-color: #08243e;
@@ -20,6 +24,9 @@ body {
 }
 #hddsb {
     padding: 15px;;
+}
+.headerdivbcineedit {
+    white-space: nowrap;
 }
 .hbutton {
     color: white;
